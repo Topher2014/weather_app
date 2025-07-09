@@ -10,7 +10,7 @@ STATE = "CA"
 COUNTRY = "US"
 
 # Data storage settings
-DATA_FILE = "data/weather_data.json"
+DATA_FILE = "data/weather_data.csv"  # Changed from .json to .csv
 
 # GUI settings
 WINDOW_TITLE = "Sacramento Weather App"
