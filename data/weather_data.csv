@@ -1,2 +1,6 @@
 city,temperature,feels_like,humidity,description,timestamp,date,time
 Sacramento,84,83,39,Clear Sky,2025-07-09T13:03:24.397890,2025-07-09,13:03:24
+Sacramento,85,84,39,Clear Sky,2025-07-09T13:16:27.240388,2025-07-09,13:16:27
+Sacramento,85,84,39,Clear Sky,2025-07-09T13:20:29.591102,2025-07-09,13:20:29
+Sacramento,85,84,39,Clear Sky,2025-07-09T13:22:50.392999,2025-07-09,13:22:50
+Sacramento,85,84,39,Clear Sky,2025-07-09T13:23:33.294862,2025-07-09,13:23:33
